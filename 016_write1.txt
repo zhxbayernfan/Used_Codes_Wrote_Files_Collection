@@ -1,0 +1,198 @@
+Player1 Information
+Name:Manual Neuer 
+Number:1 
+Country:Deutsch 
+Last_Team:Shalke04 
+
+Player4 Information
+Name:Nikolas Sule 
+Number:4 
+Country:Deutsch 
+Last_Team:Hoffinheim 
+
+Player5 Information
+Name:Benjamin Pavard 
+Number:5 
+Country:France 
+Last_Team:Stuttgart 
+
+Player5' Information
+Name:Mats Hummels 
+Number:5' 
+Country:Deutsch 
+Last_Team:Dortmund 
+
+Player6 Information
+Name:Thiago Alcantara 
+Number:6 
+Country:Spain 
+Last_Team:Barcelona
+
+Player7' Information
+Name:Franck Ribery 
+Number:7' 
+Country:France 
+Last_Team:Olympique de Marseille 
+
+Player8 Information
+Name:Javi Martinez 
+Number:8 
+Country:Spain 
+Last_Team:Athletic Club Bilbao
+
+Player9 Information
+Name:Robert Lewandowski 
+Number:9
+Country:Poland 
+Last_Team:Dortmund 
+
+Player10 Information
+Name:Philippe Coutinho 
+Number:10 
+Country:Brazil 
+Last_Team:Barcelona
+
+Player10' Information
+Name:Arjen Robben 
+Number:10' 
+Country:Netherlands 
+Last_Team:Real Madrid  
+
+Player11 Information
+Name:Mickael Cuisance 
+Number:11 
+Country:France 
+Last_Team:M'Gladbach 
+
+Player12 Information
+Name:Berni 
+Number:12 
+Country:Deutsch 
+Last_Team:/ 
+
+Player13' Information
+Name:Rafinha 
+Number:13' 
+Country:Brazil 
+Last_Team:Genoa 
+
+Player14 Information
+Name:Ivan Perisic 
+Number:14 
+Country:Croatia 
+Last_Team:Internazionale Milano 
+
+Player15 Information
+Name:Jann-Fiete Arp 
+Number:15 
+Country:Deutsch 
+Last_Team:Hamburg 
+
+Player17 Information
+Name:Jerome Boateng 
+Number:17 
+Country:Deutsch 
+Last_Team:Manchester City 
+
+Player18 Information
+Name:Leon Goretzka 
+Number:18 
+Country:Deutsch 
+Last_Team:Shalke04 
+
+Player19 Information
+Name:Alphonso Davies 
+Number:19 
+Country:Canada 
+Last_Team:Vancouver Whitecaps FC 
+
+Player21 Information
+Name:Lucas Hernandes 
+Number:21 
+Country:France 
+Last_Team:Atheletico Madrid 
+
+Player21' Information
+Name:Philipp Lahm 
+Number:21' 
+Country:Deutsch 
+Last_Team:FC Bayern Youth 
+
+Player22 Information
+Name:Serge Gnabry 
+Number:22 
+Country:Deutsch 
+Last_Team:Hoffinheim 
+
+Player24 Information
+Name:Corentin Tolisso 
+Number:24 
+Country:France 
+Last_Team:Olympique Lyonnais 
+
+Player25 Information
+Name:Thomas Muller 
+Number:25 
+Country:Deutsch 
+Last_Team:FC Bayern Youth 
+
+Player26 Information
+Name:Sven Ulreich 
+Number:26 
+Country:Deutsch 
+Last_Team:Stuttgart 
+
+Player27 Information
+Name:David Alaba 
+Number:27 
+Country:Austria 
+Last_Team:FC Bayern Youth 
+
+Player28' Information
+Name:Holger Badstuber 
+Number:28' 
+Country:Deutsch 
+Last_Team:FC Bayern Youth 
+
+Player29 Information
+Name:Kingsley Coman 
+Number:29 
+Country:France 
+Last_Team:Juventus 
+
+Player31' Information
+Name:Bastian Schweinsteiger 
+Number:31' 
+Country:Deutsch 
+Last_Team:FC Bayern Youth 
+
+Player32 Information
+Name:Joshua Kimmich 
+Number:32 
+Country:Deutsch 
+Last_Team:Stuttgart 
+
+Player33 Information
+Name:Lucas Mai 
+Number:33 
+Country:Deutsch 
+Last_Team:FC Bayern Youth 
+
+Player33' Information
+Name:Mario Gomez 
+Number:33' 
+Country:Deutsch 
+Last_Team:Stuttgart 
+
+Player36 Information
+Name:Christian Fruchtl 
+Number:36 
+Country:Deutsch 
+Last_Team:FC Bayern Youth 
+
+Player39 Information
+Name:Ron-Thorben Hoffmann 
+Number:39 
+Country:Deutsch 
+Last_Team:FC Bayern Youth 
+
