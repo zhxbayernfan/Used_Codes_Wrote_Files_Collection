@@ -49,11 +49,11 @@ nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-r
 nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-rawfq_1_2019_12_23_Zhongzhong1000-1-1-500/tmp/repaq-xz-rawfq_node_2  --include S016*.fastq.gz ./ &
 nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-rawfq_1_2019_12_23_Zhongzhong1000-1-1-500/tmp/repaq-xz-rawfq_node_2  --include S018*.fastq.gz ./ &
 nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-rawfq_1_2019_12_23_Zhongzhong1000-1-1-500/tmp/repaq-xz-rawfq_node_2  --include S020*.fastq.gz ./ &
-mv ./repaq-xz-rawfq_node_2/S012* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
-mv ./repaq-xz-rawfq_node_2/S014* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
-mv ./repaq-xz-rawfq_node_2/S016* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
-mv ./repaq-xz-rawfq_node_2/S018* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
-mv ./repaq-xz-rawfq_node_2/S020* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
+mv ./repaq-xz-rawfq_node_2/S012* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
+mv ./repaq-xz-rawfq_node_2/S014* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
+mv ./repaq-xz-rawfq_node_2/S016* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
+mv ./repaq-xz-rawfq_node_2/S018* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
+mv ./repaq-xz-rawfq_node_2/S020* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S012_S014_S016_S018_S020/
 find ./ -type f -print0 | xargs -0 md5sum > ./part1_1-500_S012_S014_S016_S018_S020.md5
 
 #S021-S030
@@ -77,9 +77,9 @@ nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-r
 nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-rawfq_1_2019_12_23_Zhongzhong1000-1-1-500/tmp/repaq-xz-rawfq_node_2  --include S016*.fastq.gz ./ &
 nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-rawfq_1_2019_12_23_Zhongzhong1000-1-1-500/tmp/repaq-xz-rawfq_node_2  --include S018*.fastq.gz ./ &
 nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-rawfq_1_2019_12_23_Zhongzhong1000-1-1-500/tmp/repaq-xz-rawfq_node_2  --include S020*.fastq.gz ./ &
-mv ./repaq-xz-rawfq_node_2/S012* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
-mv ./repaq-xz-rawfq_node_2/S014* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
-mv ./repaq-xz-rawfq_node_2/S016* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
-mv ./repaq-xz-rawfq_node_2/S018* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
-mv ./repaq-xz-rawfq_node_2/S020* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
+mv ./repaq-xz-rawfq_node_2/S012* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
+mv ./repaq-xz-rawfq_node_2/S014* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
+mv ./repaq-xz-rawfq_node_2/S016* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
+mv ./repaq-xz-rawfq_node_2/S018* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
+mv ./repaq-xz-rawfq_node_2/S020* /haplox/users/zhanghx/disk2/Zhongzhong1000/part1_1-500_S022_S024_S026_S028_S030/
 find ./ -type f -print0 | xargs -0 md5sum > ./part1_1-500_S022_S024_S026_S028_S030.md5
