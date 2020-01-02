@@ -131,7 +131,6 @@ nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-r
 nohup ossutil cp -r oss://sz-hapres/haplox/hapyun/201912/tmp_workflow_repaq-xz-rawfq_1_2019_12_23_Zhongzhong1000-1-1-500/tmp/repaq-xz-rawfq_node_2  --include S093*.fastq.gz ./ &
 mv ./repaq-xz-rawfq_node_2/S091* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S081_S093/
 mv ./repaq-xz-rawfq_node_2/S093* /haplox/users/zhanghx/disk1/Zhongzhong1000/part1_1-500_S081_S093/
-
 find ./ -type f -print0 | xargs -0 md5sum > ./part1_1-500_S081_S093.md5
 #x02:/haplox/users/zhanghx/disk2/Zhongzhong1000/$ 
 mkdir part1_1-500_S082_S094/
